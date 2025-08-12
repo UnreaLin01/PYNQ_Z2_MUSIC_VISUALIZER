@@ -2,7 +2,7 @@
 
 ![image](https://hackmd.io/_uploads/HkCAJ2p4xe.jpg)
 
-[![image](https://hackmd.io/_uploads/r1zlpLduee.jpg)](https://www.youtube.com/watch?v=f9keKouVoJM)
+[![Demo Video](https://img.youtube.com/vi/f9keKouVoJM/maxresdefault.jpg)](https://www.youtube.com/watch?v=f9keKouVoJM)
 
 An FPGA-based real-time audio spectrum visualizer built on the PYNQ-Z2 development board. The system utilizes programmable logic (PL) for FFT acceleration and WS2812B addressable RGB LED driving, while the processor system (PS) handles audio streaming over Ethernet and generates dynamic LED panel patterns.
 
