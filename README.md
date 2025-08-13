@@ -45,7 +45,8 @@ An FPGA-based real-time audio spectrum visualizer built on the PYNQ-Z2 developme
 
 ## 📄 Full Documentation & Tutorial
 
-* [HackMD Article](https://hackmd.io/@UnreaLin/H11WDXEfee)
+* [HackMD](https://hackmd.io/@UnreaLin/H11WDXEfee)
+* [Hackster](https://www.hackster.io/unrealin/pynq-z2-music-visualizer-b1bf5d)
 
 ## 📎References
 
